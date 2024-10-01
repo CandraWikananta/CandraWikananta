@@ -34,11 +34,13 @@ I'm a passionate **Software Developer** with a love for coding and problem-solvi
 ---
 
 ## 📊 GitHub Stats
+
 <p align="start">
   <a href="https://github.com/candra-wikananta">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=candrawikananta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=candrawikananta&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=candrawikananta&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=candrawikananta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=candrawikananta&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
---- 
+---
