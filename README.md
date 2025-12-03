@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** with a love for coding and problem-solvi
 ## 🌍 Let's Connect!
 
 <p align="start">
-  <a href="https://www.instagram.com/_candraaa_/">
+  <a href="https://www.instagram.com/candrawikananta/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
   <a href="mailto:candrawikananta@gmail.com">
